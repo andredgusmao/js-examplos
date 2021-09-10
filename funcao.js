@@ -1,0 +1,3 @@
+function calculaNumeroPaginas(colegas, paginas) {
+
+}
